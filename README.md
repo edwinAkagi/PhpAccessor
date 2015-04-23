@@ -28,7 +28,7 @@ $test = new Test();
 echo $test->aaa;
 echo "\n";
 $test->aaa = 'ccc';
-echo $test->aaa."\n";
+echo $test->aaa;
 ```
 
 ### The output of the previous code
